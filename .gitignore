@@ -1,0 +1,11 @@
+# Ignore dataset images
+dataset/*
+!dataset/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
